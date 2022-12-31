@@ -25,11 +25,13 @@ Pointing register saves at which point it left the process to context switch ano
 Concurrency
 If one processor runs and does context switching to run several files, is called concurrency
 
-core i3 has 3 cores and one core has two threads. it has 6 threads (as per intel). these threads are virtual cpu. so it has 6 virtual cpu
+core i3 has 3 cores and one core has two threads. it has 6 threads (as per intel). these threads are virtual cpu. so it has 6 virtual cpu / logical cpu
 Parallel programming is when at a time 6 processor is running 6 process at a time
 
 Now comes real thread.
 Process has threads. thread is a virtual process.
 One process has one thread by default
+
+Javascript is a single threaded language. Because javascript has only one thread and it runs the code component one at a time. that's why its a single threaded language
 
 
