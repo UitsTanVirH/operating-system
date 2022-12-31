@@ -17,5 +17,12 @@ what is the need of process?
 To run multiple files at a time. Process gives the exe file a feel that it's a computer on it's own. 
 
 Context switching
+pointing register switches between different processes to run them simultaneously. This is called context switching
+
+Process Control Block (PCB)
+Pointing register saves at which point it left the process to context switch another. where it saves is called PCB.
+
+Concurrency
+Computer can do one work at a time. but it keeps context switching and runs them all. This is called concurrency
 
 
