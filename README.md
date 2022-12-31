@@ -1,6 +1,7 @@
 # operating-system
 ```
-.exe file is store in binary in hard disk memory cells. when the executable file is run, the binary lines are loaded in ram's empty cell line by line. 
+.exe file is store in binary in hard disk memory cells. when the executable file is run, 
+the binary lines are loaded in ram's empty cell line by line. 
 
 Processor has two parts, processing part and register part. 
 Processing part is reponsible to run the commands.
