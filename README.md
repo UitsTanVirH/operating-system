@@ -39,7 +39,8 @@ Javascript is a single threaded language. Because javascript has only one thread
 Execution context is in call stack, call stack is in javascript engine. Different browser has different javascript engine. chrome uses v8 engine.
 
 Browser has a lot of resosurces such as: timer, geo location, console, url, local storage. 
-Web apis is used to access those browser resources.
+Web apis is used to access those browser resources built by browser engineers
+
 
 
 
