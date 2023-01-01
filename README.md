@@ -41,6 +41,18 @@ Execution context is in call stack, call stack is in javascript engine. Differen
 Browser has a lot of resosurces such as: timer, geo location, console, url, local storage. 
 Web apis is used to access those browser resources built by browser engineers
 
+Web apis:
+  setTimeout()
+  fetch()
+  Dom apis
+  localStorage
+  console
+  location
+  
+Callback queue and mirco task queue is stored in heap
+Only functions created from promise will go to micro task queue
+
+
 
 
 
